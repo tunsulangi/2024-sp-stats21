@@ -2,3 +2,4 @@ This is the first line of text.
 This will be the second line of text.
 a 3rd line
 Let's append a new line!
+Let's append a new line!
